@@ -16,7 +16,7 @@ mkdir any_name
 ## cloning the project
 
 ```bash
-    https://github.com/mabdullahadeel/upflix.git
+    git clone https://github.com/mabdullahadeel/upflix.git
 ```
 
 ## Installing dependencies
